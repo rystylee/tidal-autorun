@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-y": "tidal-autorun:start",
+    "ctrl-alt-u": "tidal-autorun:stop"
+  }
+}

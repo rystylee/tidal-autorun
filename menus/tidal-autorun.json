@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start",
+        "command": "tidal-autorun:start"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tidal-autorun",
+          "submenu": [
+            {
+              "label": "Start",
+              "command": "tidal-autorun:start"
+            },
+            {
+              "label": "Stop",
+              "command": "tidal-autorun:stop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
