@@ -1,2 +1,2 @@
 # tidal-autorun
-Load code from JSON and run it automatically with TidalCycles.
+an atom package of loading code from JSON and run it automatically with TidalCycles.
