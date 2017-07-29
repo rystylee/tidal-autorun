@@ -21,6 +21,10 @@
             {
               "label": "Stop",
               "command": "tidal-autorun:stop"
+            },
+            {
+              "label": "Restart",
+              "command": "tidal-autorun:restart"
             }
           ]
         }
