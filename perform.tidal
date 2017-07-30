@@ -1,2 +1,7 @@
-d1 $
-sound "sn cp drum cp bass "
+do
+  d1 $
+    sound "808hc drum "
+  d2 $
+    sound "arpy drum hh "
+  d3 $
+    sound "bd bd 808hc drum hh arpy bd "

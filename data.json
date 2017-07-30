@@ -1,3 +1,11 @@
 {
-  "samples":["bd*4", "cp/2", "sn*4", "arpy*2"]
+  "d1":{
+    "samples":["bd", "cp", "sn", "arpy"]
+  },
+  "d2":{
+    "samples":["drum", "bass"]
+  },
+  "d3":{
+    "samples":["db", "hh"]
+  }
 }
